@@ -1,2 +1,2 @@
-# lab2_snort-scripts
+# nsm-snort-scripts
 bài thực hành labtainer 2
